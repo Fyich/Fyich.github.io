@@ -11,7 +11,7 @@ github_repo: "https://github.com/fyich/qiubaiying.github.io.git" # you code repo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Nothing"
+sidebar-about-description: "山不让尘 川不辞盈"
 sidebar-avatar: /img/show.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
